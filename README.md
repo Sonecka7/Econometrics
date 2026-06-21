@@ -1,8 +1,5 @@
 # Econometrics: From Theory to Application
 
-> **Note:** This document uses LaTeX for mathematical notation. On GitHub, formulas are rendered via MathJax.  
-> Inline formulas are written as `$...$`, and display formulas as `$$...$$`.
-
 ## About This Repository
 This repository is dedicated to the rigorous study of Econometric Theory, Manual Calculations, and Practical Applications.
 
